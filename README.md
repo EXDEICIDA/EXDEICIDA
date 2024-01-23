@@ -1,0 +1,9 @@
+- 👋 Hi, I’m [@EXDEICIDA](https://github.com/EXDEICIDA)
+- 👀 I’m interested in new technologies in the tech industry and deeply intrigued by philosophy, ethical structures, and algorithms.
+- 🌱 I’m currently learning and exploring the latest developments in the intersection of technology and philosophy.
+- 💞️ I’m looking to collaborate on projects that involve innovative technologies, ethical considerations, or the philosophical aspects of tech.
+- 🔍 I'm exploring .NET and its various frameworks on an elementary level.
+- 📚 Fun fact: I've read numerous books, ranging from classical novels to philosophy and logical literature.
+- 📫 How to reach me: javadsoltanov@gmail.com
+- 😄 Pronouns: He/Him
+- 🔗 LinkedIn: [Javad Soltanov](https://www.linkedin.com/in/javad-soltanov-9427262a4/)
