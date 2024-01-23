@@ -5,5 +5,4 @@
 - 🔍 I'm exploring .NET and its various frameworks on an elementary level.
 - 📚 Fun fact: I've read numerous books, ranging from classical novels to philosophy and logical literature.
 - 📫 How to reach me: javadsoltanov@gmail.com
-- 😄 Pronouns: He/Him
 - 🔗 LinkedIn: [Javad Soltanov](https://www.linkedin.com/in/javad-soltanov-9427262a4/)
