@@ -46,11 +46,11 @@
 
 ###
 
-<div align="right">
-  <div class="tenor-gif-embed" data-postid="24979167" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/batman-gif-24979167">Batman GIF</a>from <a href="https://tenor.com/search/batman-gifs">Batman GIFs</a></div>
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+###
 
+<img align="right" height="150" src="https://tenor.com/view/batman-gif-24979167.gif" alt="Batman GIF" />
+
+###
 ###
 
 <div align="left">
