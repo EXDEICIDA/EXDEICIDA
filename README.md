@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">I'm currently a Junior Full-Stack Developer and a Computer Engineering student at Dokuz Eylül University. My current goal is to become proficient in various technologies, including programming paradigms and network studies. I'm focused on machine learning, deep learning, and AI fields, and I'm actively studying these areas to enhance my skills and knowledge.</p>
+<p align="left">I'm currently a Junior Full-Stack Developer and a Computer Engineering student at Dokuz Eylül University. My current goal is to become proficient in various technologies, including programming paradigms. I'm focused on machine learning, deep learning, and AI fields, and I'm actively studying these areas to enhance my skills and knowledge.</p>
 
 ###
 
