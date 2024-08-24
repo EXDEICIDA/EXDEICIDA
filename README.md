@@ -48,8 +48,6 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/batman-gif-24979167.gif" alt="Batman GIF" />
-
 ###
 ###
 
